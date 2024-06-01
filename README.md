@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 An avid programmer who knows no limits to solving challenges.<br>Web development is my cup of tea.<br>Stepping stones in machine learning and computer vision.<br>Always curious to learn.
 
 
