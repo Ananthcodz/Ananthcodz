@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤵‍♀️A Full-stack developer trying to learn more everyday.<br>✍️Problem Solving excites me (please ping me with challenges)<br>🤖Stepped foot into the AI/ML world through a few projects<br>🔭Exploration is my cup of tea in the ocean of CS <br> Visit <a href="https://ananthcodz.github.io">my portfolio</a> to know more about me!
+🤵‍♀️A Full-stack developer trying to learn more everyday.<br>✍️Problem Solving excites me (please ping me with challenges)<br>🤖Stepped foot into the AI/ML world through a few projects<br>🔭Exploration is my cup of tea in the ocean of CS <br> Visit <a href="https://ananthcodz.github.io" target="_blank">my portfolio</a> to know more about me!
 
 
 ## 🌐 Socials:
